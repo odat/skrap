@@ -37,9 +37,14 @@ composer install
  ```
 edit .env file 
  ```
+ 
+```
+php artisan migrate:install
+``` 
 
 
-https://{{yourDomain}}
+visit your domain : 
+https://link.domain
 
 ## Learning Laravel
 
