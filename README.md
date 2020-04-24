@@ -42,6 +42,13 @@ edit .env file
 php artisan migrate:install
 ``` 
 
+```
+npm install
+```
+
+```
+npm run dev
+```
 
 visit your domain : 
 https://link.domain

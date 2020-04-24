@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd53aa6-fbbb-404c-b18d-58b62e86b51a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/db1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
           <entry key="env" value="35" />
           <entry key="js" value="107" />
           <entry key="json" value="16" />
-          <entry key="md" value="371" />
+          <entry key="md" value="482" />
           <entry key="php" value="1204" />
           <entry key="scss" value="56" />
         </counts>
@@ -57,7 +57,7 @@
           <entry key="Blade" value="585" />
           <entry key="JSON" value="16" />
           <entry key="JavaScript" value="107" />
-          <entry key="Markdown" value="371" />
+          <entry key="Markdown" value="482" />
           <entry key="PHP" value="619" />
           <entry key="SCSS" value="56" />
         </counts>
@@ -102,8 +102,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="397">
-                <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <first_editor relative-caret-position="292">
+                <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,15 +250,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587685637071</updated>
-      <workItem from="1587685638441" duration="14027000" />
+      <workItem from="1587685638441" duration="14916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14027000" />
+    <option name="totallyTimeSpent" value="14916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -438,8 +439,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <first_editor relative-caret-position="292">
+            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           </first_editor>
           <second_editor />
         </state>
