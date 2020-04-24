@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap4-toggle/css/bootstrap4-toggle.min.css';
+
+
+.total-money span{
+  display:block;
+  font-size:28px;
+  font-weight: bold;
+  color:#0b91d2;
+}
+
+.deleted{
+    display:none;
+}
+
+.toggle-off.btn{
+    padding-left: 1.2rem;
+}
+
+.table small{
+    display: block;
+}
