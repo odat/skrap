@@ -53,6 +53,17 @@ npm run dev
 visit your domain : 
 https://link.domain
 
+
+## API 
+
+| URI | Method | description
+| ------------- | ------------- |
+| https://skrap.thechecker.org/api-v1/login  | POST  | login user
+| https://skrap.thechecker.org/api-v1/register  | POST  | register new user
+| https://skrap.thechecker.org/api-v1/users/{user_id}/blogs  | GET  | get all blogs by user id
+| https://skrap.thechecker.org/api-v1/blogs/{id}/pdf   | GET  | response a pdf download link by blog id
+| https://skrap.thechecker.org/api-v1/blogs  | POST  | create new blog
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
