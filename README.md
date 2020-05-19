@@ -59,7 +59,7 @@ crontab -e
 
 Add the line below then save it
 ```
-* * * * * cd /var/www/skrap.thechecker.org/public_html && php artisan schedule:run >> /dev/null 2>&1
+* * * * * cd /path-to-project/ && php artisan schedule:run >> /dev/null 2>&1
 ```
 visit your domain : 
 https://link.domain
