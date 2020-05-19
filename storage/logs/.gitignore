@@ -1,2 +1,4 @@
 *
 !.gitignore
+!request.log
+!response.log

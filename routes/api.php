@@ -24,6 +24,10 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
     Route::group(['middleware' => 'auth:api'], function(){
         Route::get('blogs/{user_id}', 'API\BlogController@getAllByUserId');
+        Route::post('blogs', 'API\BlogController@store');
+        Route::get('blogs/{id}/pdf', 'API\BlogController@getPdf');
+
+
     });
 
 
